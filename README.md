@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on ...
 
-A discord moderation tool for discord that helps to keep the overview of modcases.<br/>
+A discord moderation tool that helps to keep the overview of modcases.<br/>
 Feel free to try it out: [repo](https://github.com/zaanposni/discord-masz)
 
 - 👯 I’m looking to collaborate on ...
