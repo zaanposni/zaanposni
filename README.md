@@ -8,7 +8,7 @@ Feel free to try it out: [repo](https://github.com/zaanposni/discord-masz)
 
 - 👯 I’m looking to collaborate on ...
 
-Projects related to GitHub, Discord or useful libraries (like my [python library](https://github.com/zaanposni/vvspy) for a public transport API in germany)
+Projects related to GitHub, Discord, CLIs or Gaming
 
 - 📚 Latest Blog Posts ...
 
@@ -17,7 +17,5 @@ Projects related to GitHub, Discord or useful libraries (like my [python library
   - [MASZ - A Discord moderation tool](https://me.zaanposni.com/masz/)
 
 ![](https://raw.githubusercontent.com/zaanposni/zaanposni/master/profile-summary-card-output/monokai/0-profile-details.svg)
-![](https://raw.githubusercontent.com/zaanposni/zaanposni/master/profile-summary-card-output/monokai/1-repos-per-language.svg)
-![](https://raw.githubusercontent.com/zaanposni/zaanposni/master/profile-summary-card-output/monokai/2-most-commit-language.svg)
 
 
