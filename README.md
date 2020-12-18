@@ -8,7 +8,7 @@ Feel free to try it out: [repo](https://github.com/zaanposni/discord-masz)
 
 - 👯 I’m looking to collaborate on ...
 
-Projects related to GitHub, Discord, CLIs or Gaming
+Projects related to GitHub, Discord, CLIs or organizational Apps
 
 - 📚 Latest Blog Posts ...
 
